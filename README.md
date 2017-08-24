@@ -1,2 +1,2 @@
 # hello-world
-BP's Intro to Github
+BP's intro to Github
